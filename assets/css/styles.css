@@ -18,8 +18,8 @@
                   hsl(25, 96%, 55%),
                   hsl(34, 93%, 53%));
   --white-color: hsl(0, 0%, 100%);
-  --text-color: hsl(0, 0%, 75%);
-  --text-color-light: hsl(0, 0%, 55%);
+  --text-color: hsl(0, 0%, 100%);
+  --text-color-light: hsl(0, 0%, 100%);
   --border-color: hsl(0, 0%, 45%);
   --body-color: hsl(238, 100%, 12%);
   --body-color-light: hsl(238, 60%, 20%);
@@ -48,11 +48,11 @@
 @media screen and (min-width: 1150px) {
   :root {
     --biggest-font-size: 5.5rem;
-    --big-font-size: 3rem;
-    --h1-font-size: 2.25rem;
-    --h2-font-size: 1.5rem;
-    --normal-font-size: 1rem;
-    --small-font-size: .875rem;
+    --big-font-size: 3.5rem;
+    --h1-font-size: 2.7rem;
+    --h2-font-size: 2rem;
+    --normal-font-size: 1.5rem;
+    --small-font-size: 1.2rem;
   }
 }
 
